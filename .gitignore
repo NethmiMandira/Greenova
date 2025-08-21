@@ -1,0 +1,24 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio workspace files
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# NuGet packages folder (optional if using packages)
+packages/
+
+# Resharper cache files
+_ReSharper*/
